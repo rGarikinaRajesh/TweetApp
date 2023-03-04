@@ -1,0 +1,16 @@
+
+.bg-image {
+    background-image: url("../../assets/users2.jpg");
+    width: 100%;
+    min-height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+}
+
+.form-control::placeholder {
+    color: black !important;
+    opacity: 1;
+}

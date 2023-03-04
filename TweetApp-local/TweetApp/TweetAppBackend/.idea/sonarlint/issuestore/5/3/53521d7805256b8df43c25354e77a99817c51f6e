@@ -1,0 +1,30 @@
+
+k
+java:S1192,"UDefine a constant instead of duplicating this literal "No such user exists" 10 times.(³…Øñ
+k
+java:S1192b"PDefine a constant instead of duplicating this literal "Tweet not found" 6 times.(‚£İ‘şÿÿÿÿ
+y
+java:S1488="^Immediately return this expression instead of assigning it to the temporary variable "tweets".(ÿ¾ÙÁüÿÿÿÿ
+M
+java:S26295"7Use the built-in formatting to construct this argument.(¼ÊÕ¨
+M
+java:S2629X"7Use the built-in formatting to construct this argument.(à Ö¯
+V	java:S125%"<This block of commented-out lines of code should be removed.(–…Õ”şÿÿÿÿ
+W
+java:S34575"AFormat specifiers should be used instead of string concatenation.(¼ÊÕ¨
+V	java:S1254"<This block of commented-out lines of code should be removed.(—‹Úàüÿÿÿÿ
+W
+java:S3457X"AFormat specifiers should be used instead of string concatenation.(à Ö¯
+V	java:S125W"<This block of commented-out lines of code should be removed.(•£ßûÿÿÿÿ
+V	java:S125l"<This block of commented-out lines of code should be removed.(•£ßûÿÿÿÿ
+Q	java:S125z"<This block of commented-out lines of code should be removed.(ì¼šî
+]
+java:S3457–"AFormat specifiers should be used instead of string concatenation.(¦¶¾ôùÿÿÿÿ
+W	java:S125˜"<This block of commented-out lines of code should be removed.(£æı¨ùÿÿÿÿ
+U
+java:S1155¦">Use isEmpty() to check whether the collection is empty or not.(Œª—
+]
+java:S3457¶"AFormat specifiers should be used instead of string concatenation.(»¥÷Âûÿÿÿÿ
+Q	java:S125µ"<This block of commented-out lines of code should be removed.(Ê½¶5
+Z
+java:S1128"?Remove this unused import 'com.tweetapp.kafka.ProducerService'.(™ÉûØûÿÿÿÿ

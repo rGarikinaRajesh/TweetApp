@@ -1,0 +1,65 @@
+
+[	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(‘Áæ
+[	java:S112<"FDefine and throw a dedicated exception instead of using a generic one.(Ï©çÏ
+[	java:S112G"FDefine and throw a dedicated exception instead of using a generic one.(‘Áæ
+[	java:S112Q"FDefine and throw a dedicated exception instead of using a generic one.(Î«‚€
+[	java:S112["FDefine and throw a dedicated exception instead of using a generic one.(Î«‚€
+[	java:S112f"FDefine and throw a dedicated exception instead of using a generic one.(‘Áæ
+t
+java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûı°†úÿÿÿÿ
+o
+java:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(’Ü¦ü
+o
+java:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(’Ü¦ü
+t
+java:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(­Ùßëüÿÿÿÿ
+n
+java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(§›Û
+n
+java:S2293^"YReplace the type specification in this constructor call with the diamond operator ("<>").(§›Û
+t
+java:S2293i"YReplace the type specification in this constructor call with the diamond operator ("<>").(àİ‰‹şÿÿÿÿ
+{
+java:S1488-"`Immediately return this expression instead of assigning it to the temporary variable "response".(ûı°†úÿÿÿÿ
+v
+java:S14886"`Immediately return this expression instead of assigning it to the temporary variable "response".(’Ü¦ü
+v
+java:S1488?"`Immediately return this expression instead of assigning it to the temporary variable "response".(’Ü¦ü
+{
+java:S1488J"`Immediately return this expression instead of assigning it to the temporary variable "response".(­Ùßëüÿÿÿÿ
+u
+java:S1488T"`Immediately return this expression instead of assigning it to the temporary variable "response".(§›Û
+u
+java:S1488^"`Immediately return this expression instead of assigning it to the temporary variable "response".(§›Û
+{
+java:S1488i"`Immediately return this expression instead of assigning it to the temporary variable "response".(àİ‰‹şÿÿÿÿ
+R
+java:S2629,"7Use the built-in formatting to construct this argument.(ûØåÿÿÿÿÿ
+L
+java:S2629>"7Use the built-in formatting to construct this argument.(ƒĞ˜
+M
+java:S2629I"7Use the built-in formatting to construct this argument.(ƒÂº¤
+M
+java:S2629S"7Use the built-in formatting to construct this argument.(¸âº€
+R
+java:S2629]"7Use the built-in formatting to construct this argument.(îÚÚŸúÿÿÿÿ
+R
+java:S2629h"7Use the built-in formatting to construct this argument.(ÉÏŒÓÿÿÿÿÿ
+V
+java:S4684*"@Replace this persistent entity with a simple POJO or DTO object.(‘Áæ
+\
+java:S3457,"AFormat specifiers should be used instead of string concatenation.(ûØåÿÿÿÿÿ
+V
+java:S3457>"AFormat specifiers should be used instead of string concatenation.(ƒĞ˜
+V
+java:S4684G"@Replace this persistent entity with a simple POJO or DTO object.(‘Áæ
+W
+java:S3457I"AFormat specifiers should be used instead of string concatenation.(ƒÂº¤
+W
+java:S3457S"AFormat specifiers should be used instead of string concatenation.(¸âº€
+\
+java:S3457]"AFormat specifiers should be used instead of string concatenation.(îÚÚŸúÿÿÿÿ
+V
+java:S4684f"@Replace this persistent entity with a simple POJO or DTO object.(‘Áæ
+\
+java:S3457h"AFormat specifiers should be used instead of string concatenation.(ÉÏŒÓÿÿÿÿÿ
